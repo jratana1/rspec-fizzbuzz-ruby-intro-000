@@ -5,10 +5,9 @@ def fizzbuzz(integer)
     return "Fizz"
 elsif integer % 5 == 0 && integer % 3 != 0
   return "Buzz"
-elsif integer % 5 == 0 && integer %3 == 0
+elsif integer % 5 == 0 && integer % 3 == 0
   return "FizzBuzz"
 else
-  return "nil"
 end
 
 end
