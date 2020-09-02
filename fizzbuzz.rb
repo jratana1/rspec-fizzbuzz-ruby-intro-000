@@ -2,6 +2,6 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(integer)
   if integer % 3 == 0
-    "Fizz"
+    prints "Fizz"
   end
 end
