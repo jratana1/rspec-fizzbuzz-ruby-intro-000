@@ -3,7 +3,7 @@
 def fizzbuzz(integer)
   if integer % 3 == 0
     return "Fizz"
-else if integer % 5 == 0
+elsif integer % 5 == 0
   return "Buzz"
 end
 
